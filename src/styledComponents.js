@@ -40,7 +40,7 @@ export const SearchContainer = styled.div`
   padding-left: 25px;
   padding-right: 25px;
 `
-export const SongsPlayListHeading = styled.p`
+export const SongsPlayListHeading = styled.h1`
   font-family: 'Roboto';
   font-size: 25px;
   color: #ffffff;
